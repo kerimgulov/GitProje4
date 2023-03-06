@@ -13,6 +13,8 @@ public class Student {
 
         System.out.println("tekrar merhaba 3");
 
+        System.out.println("tekrar merhaba 3");
+
 
 
     }
