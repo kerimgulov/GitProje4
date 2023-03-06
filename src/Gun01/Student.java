@@ -11,6 +11,9 @@ public class Student {
 
         System.out.println("tekrar merhaba 2");
 
+        System.out.println("tekrar merhaba 3");
+
+
 
     }
 }
